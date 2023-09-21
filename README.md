@@ -1,2 +1,2 @@
-# AlgebraLineal
-- Programas de Algebra Lineal Grupo #2
+# AlgebraLineal & POO
+- Programas de Algebra Lineal y POO
